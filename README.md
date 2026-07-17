@@ -99,5 +99,5 @@ Image-Classification-Transfer-Learning/
 
 ## 👨‍💻 Author
 
-**Arsh **
+**Arsh**
 
